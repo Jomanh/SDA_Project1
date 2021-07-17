@@ -1,0 +1,13 @@
+C:\Users\Verpo\source\repos\RainbowSchoolSystem_SDA\RainbowSchoolSystem_SDA\obj\Debug\netcoreapp3.1\RainbowSchoolSystem_SDA.csproj.AssemblyReference.cache
+C:\Users\Verpo\source\repos\RainbowSchoolSystem_SDA\RainbowSchoolSystem_SDA\obj\Debug\netcoreapp3.1\RainbowSchoolSystem_SDA.AssemblyInfoInputs.cache
+C:\Users\Verpo\source\repos\RainbowSchoolSystem_SDA\RainbowSchoolSystem_SDA\obj\Debug\netcoreapp3.1\RainbowSchoolSystem_SDA.AssemblyInfo.cs
+C:\Users\Verpo\source\repos\RainbowSchoolSystem_SDA\RainbowSchoolSystem_SDA\obj\Debug\netcoreapp3.1\RainbowSchoolSystem_SDA.csproj.CoreCompileInputs.cache
+C:\Users\Verpo\source\repos\RainbowSchoolSystem_SDA\RainbowSchoolSystem_SDA\bin\Debug\netcoreapp3.1\RainbowSchoolSystem_SDA.exe
+C:\Users\Verpo\source\repos\RainbowSchoolSystem_SDA\RainbowSchoolSystem_SDA\bin\Debug\netcoreapp3.1\RainbowSchoolSystem_SDA.deps.json
+C:\Users\Verpo\source\repos\RainbowSchoolSystem_SDA\RainbowSchoolSystem_SDA\bin\Debug\netcoreapp3.1\RainbowSchoolSystem_SDA.runtimeconfig.json
+C:\Users\Verpo\source\repos\RainbowSchoolSystem_SDA\RainbowSchoolSystem_SDA\bin\Debug\netcoreapp3.1\RainbowSchoolSystem_SDA.runtimeconfig.dev.json
+C:\Users\Verpo\source\repos\RainbowSchoolSystem_SDA\RainbowSchoolSystem_SDA\bin\Debug\netcoreapp3.1\RainbowSchoolSystem_SDA.dll
+C:\Users\Verpo\source\repos\RainbowSchoolSystem_SDA\RainbowSchoolSystem_SDA\bin\Debug\netcoreapp3.1\RainbowSchoolSystem_SDA.pdb
+C:\Users\Verpo\source\repos\RainbowSchoolSystem_SDA\RainbowSchoolSystem_SDA\obj\Debug\netcoreapp3.1\RainbowSchoolSystem_SDA.dll
+C:\Users\Verpo\source\repos\RainbowSchoolSystem_SDA\RainbowSchoolSystem_SDA\obj\Debug\netcoreapp3.1\RainbowSchoolSystem_SDA.pdb
+C:\Users\Verpo\source\repos\RainbowSchoolSystem_SDA\RainbowSchoolSystem_SDA\obj\Debug\netcoreapp3.1\RainbowSchoolSystem_SDA.genruntimeconfig.cache
